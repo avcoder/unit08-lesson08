@@ -19,9 +19,9 @@ mdc: true
 # React Native
 Mobile Development: Unit 08 - Lesson 08
 
+- [ ] Capstone Q&A
 - [ ] Continue playing with expo APIs 
 - [ ] Create own app
-- [ ] Capstone Q&A
 
 <div class="abs-br m-6 text-xl">
   <a href="https://github.com/slidevjs/slidev" target="_blank" class="slidev-icon-btn">
@@ -31,6 +31,21 @@ Mobile Development: Unit 08 - Lesson 08
 
 <!--
 -->
+---
+transition: slide-left
+---
+
+# Capstone 
+Let's take a closer look in the LMS at 3 things: Capstone Planning, Capstone Project, Mobile Assignment
+
+- Review the ideas and requirements for the capstone project.
+   - see https://unit09-capstone.netlify.app/
+- What would employers want to see?
+- Capstone Planning due Sept 28
+- Capstone Project due Oct 23
+
+## Mobile Assignment 
+   - due Oct. 5 (not a hard due date, since you can submit this later if you wish to submit Capstone first)
 
 ---
 transition: slide-left
@@ -147,15 +162,6 @@ Try one of the following:
 2. Build a mini restaurant app with four buttons, images of three or four dishes. 
    - see https://github.com/Circuit-Stream-LMS/menu-app-starter
 
----
-transition: slide-left
----
-
-# Capstone Project
-
-- Review the ideas and requirements for the capstone project.
-   - see https://unit09-capstone.netlify.app/
-- What would employers want to see?
 
 ---
 transition: slide-left
