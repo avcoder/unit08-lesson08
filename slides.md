@@ -109,7 +109,6 @@ transition: slide-left
    - parses Adobe After Effects animations exported as JSON and renders them natively
 
 
-
 ---
 layout: image-right
 transition: slide-left
@@ -135,7 +134,28 @@ class: text-left
 - 🧪 [Enter anonymous lab questions](https://docs.google.com/forms/d/e/1FAIpQLSevvGARdHQikso-uLqFCO481MABKE5HofuSrlzEPMNQ2ZLykw/viewform?usp=dialog)
 - ℹ️ [Course feedback survey](https://circuitstream.typeform.com/to/ZoyYk7px#course_id=SoftwareAN&instructor=9514)
 
+---
+transition: slide-left
+---
 
+# Exercise: Create your own app
+Try one of the following:
+
+1. Continue with https://thecatapi.com/ OR https://thedogapi.com/
+   - Create functionality to "Vote on Images and get Historic Votes”
+   - see https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=bOoHBz-8t
+2. Build a mini restaurant app with four buttons, images of three or four dishes. 
+   - see https://github.com/Circuit-Stream-LMS/menu-app-starter
+
+---
+transition: slide-left
+---
+
+# Capstone Project
+
+- Review the ideas and requirements for the capstone project.
+   - see https://unit09-capstone.netlify.app/
+- What would employers want to see?
 
 ---
 transition: slide-left
