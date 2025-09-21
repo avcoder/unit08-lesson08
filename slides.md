@@ -136,7 +136,7 @@ class: text-left
 
 🍦 Cool Tips, Trends and Resources:
 - 💻 [Hacktoberfest 2025](https://hacktoberfest.com/)
-
+- 🎨 [State of CSS 2025](https://2025.stateofcss.com/en-US)
 
 <br>
 <hr>
