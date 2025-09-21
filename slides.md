@@ -127,26 +127,21 @@ transition: slide-left
 ---
 layout: image-right
 transition: slide-left
-image: /assets/dan.png
-backgroundSize: 444px 300px
+image: /assets/hack.png
+backgroundSize: 444px 350px
 class: text-left
 ---
 
 # 10 minute break
 
 🍦 Cool Tips, Trends and Resources:
-- 🪏 [Why we ditched Next.js](https://northflank.com/blog/why-we-ditched-next-js-and-never-looked-back)
-- ⚡ [content-visibility: auto](https://cekrem.github.io/posts/content-visibility-auto-performance/)
-- 🎭 [React for Two Computers](https://www.youtube.com/watch?v=ozI4V_29fj4)
-- ⚛️ [JSX Over the Wire = RSC](https://overreacted.io/jsx-over-the-wire/)
-- 🍎 [new MAC setup](https://www.swyx.io/new-mac-setup)
+- 💻 [Hacktoberfest 2025](https://hacktoberfest.com/)
 
 
 <br>
 <hr>
 <br>
 
-- 🧪 [Enter anonymous lab questions](https://docs.google.com/forms/d/e/1FAIpQLSevvGARdHQikso-uLqFCO481MABKE5HofuSrlzEPMNQ2ZLykw/viewform?usp=dialog)
 - ℹ️ [Course feedback survey](https://circuitstream.typeform.com/to/ZoyYk7px#course_id=SoftwareAN&instructor=9514)
 
 ---
