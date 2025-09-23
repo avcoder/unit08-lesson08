@@ -156,6 +156,8 @@ Try one of the following:
    - see https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR?report=bOoHBz-8t
 2. Build a mini restaurant app with four buttons, images of three or four dishes. 
    - see https://github.com/Circuit-Stream-LMS/menu-app-starter
+3. Build an app that uses Google's nearby feature
+   - see https://developers.google.com/maps/documentation/places/web-service/nearby-search
 
 
 ---
