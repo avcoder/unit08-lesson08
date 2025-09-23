@@ -168,3 +168,4 @@ transition: slide-left
 
 - Start working on your Mobile Assignment 
 - Start working on your Capstone planning project
+- Start working on your Capstone project
